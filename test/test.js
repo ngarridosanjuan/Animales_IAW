@@ -10,7 +10,8 @@ const animals = {
     "frog": "croak",
     "lion": "roar",
     "bird": "tweet",
-	
+    "snake": "sssss",
+    "cow": "muuuuuu"
 };
  
 function getAnimal() {
